@@ -1,0 +1,9 @@
+El EMPLEADO es el usuario del sistema por ende no es necesario que esté en otra clase, por eso todos los datos del EMPLEADO 
+mas credenciales de usuario están dentro de clase USUARIO.
+
+La tabla RESERVA no tiene modificar porque no estaria bien que uno pueda modificar cuando ya se hizo la reserva, asi que es CREAR o ELIMINAR
+
+La tabla TIPO_HABITACION no tendrá mucho movimiento, ya que no es usual que siempre aumenten habitaciones, por eso no tiene CRUD
+
+
+se supone que el límite máximo de personas por habitación múltiple es de 5.
